@@ -1,5 +1,5 @@
 module.exports = {
   connect: () => {
-    console.log("User Service DB connected");
+    console.log("Order Service DB connected");
   }
 };
